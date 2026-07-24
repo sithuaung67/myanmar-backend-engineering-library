@@ -1,35 +1,48 @@
-2026
+# Roadmap
 
-Volume I
+## Version 0.1
 
-Laravel Backend Developer
+- Repository Setup
+- Vision
+- README
+- Folder Structure
 
---------------------
+---
 
-2027
+## Version 0.2
 
-Volume II
+Volume I Draft
 
-System Design
+- PHP
+- Laravel
+- REST API
+- Authentication
+- Database
 
---------------------
+---
 
-2028
+## Version 0.5
 
-Volume III
+Production Chapters
 
-Distributed Systems
+- Performance
+- Security
+- Queue
+- GraphQL
+- Redis
 
---------------------
+---
 
-Future
+## Version 0.8
 
-Cloud
+Community Review
 
-Kubernetes
+---
 
-AI Engineering
+## Version 1.0
 
-Go
+First Public Release
 
-Rust
+- PDF
+- FoodHub API
+- Interview Handbook
