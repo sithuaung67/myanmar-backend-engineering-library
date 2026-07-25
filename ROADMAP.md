@@ -1,48 +1,171 @@
-# Roadmap
+# 🗺 Project Roadmap
 
-## Version 0.1
+This roadmap describes the long-term vision of the Myanmar Backend Engineering Library.
+
+The roadmap may evolve as the community grows.
+
+---
+
+# 🎯 Vision
+
+Build the most trusted backend engineering learning resource in the Myanmar language.
+
+---
+
+# 🏁 Phase 1 — Foundation
+
+Status: 🚧 In Progress
+
+## Goals
 
 - Repository Setup
-- Vision
+- Documentation Standards
+- Writing Standards
+- Engineering Terminology
+- Contribution Guidelines
+- Community Guidelines
+
+Deliverables
+
 - README
-- Folder Structure
+- CONTRIBUTING
+- STYLE_GUIDE
+- TERMINOLOGY
+- CODE_OF_CONDUCT
 
 ---
 
-## Version 0.2
+# 📘 Phase 2 — Volume I
 
-Volume I Draft
+Backend Engineering Fundamentals
 
-- PHP
-- Laravel
+Topics
+
+- PHP Fundamentals
+- Object-Oriented Programming
+- Laravel Fundamentals
+- MVC Architecture
+- Routing
+- Middleware
+- Request Lifecycle
+- Database Design
+- Eloquent ORM
+- Validation
+- Authentication
+- Authorization
+- REST API
+- Error Handling
+- File Upload
+- Queue
+- Cache
+- Events
+- Testing
+- Deployment
+- Engineering Principles
+
+Deliverables
+
+- Reference Book
+- Code Examples
+- Interview Questions
+- Cheat Sheets
+
+---
+
+# 🍔 Phase 3 — FoodHub API
+
+Real-world Laravel Project
+
+Goals
+
+- Clean Architecture
+- Repository Pattern
+- Service Layer
 - REST API
 - Authentication
-- Database
-
----
-
-## Version 0.5
-
-Production Chapters
-
-- Performance
-- Security
+- Authorization
+- Payment Integration (Example)
+- File Upload
 - Queue
-- GraphQL
+- Notifications
+- Testing
+- Docker
+- Deployment
+
+Deliverables
+
+- Production-style Project
+- API Documentation
+- ER Diagram
+
+---
+
+# 🏗 Phase 4 — Advanced Engineering
+
+Topics
+
+- Design Patterns
+- SOLID Principles
+- DDD (Introduction)
+- Event-Driven Architecture
+- CQRS (Introduction)
+- Microservices (Introduction)
+
+---
+
+# ☁️ Phase 5 — DevOps & Cloud
+
+Topics
+
+- Linux
+- Docker
+- Nginx
+- CI/CD
+- GitHub Actions
+- Monitoring
+- Logging
 - Redis
+- Performance
+- Scaling
 
 ---
 
-## Version 0.8
+# 🌍 Phase 6 — Community
 
-Community Review
+Goals
+
+- GitHub Contributors
+- Community Review
+- Issue Tracking
+- Documentation Improvements
+- Translation Support
 
 ---
 
-## Version 1.0
+# 🚀 Phase 7 — Release
 
-First Public Release
+Release v1.0
 
-- PDF
+Contents
+
+- Volume I
 - FoodHub API
-- Interview Handbook
+- Documentation
+- PDF
+- Cheat Sheets
+
+---
+
+# 🔮 Future Plans
+
+- Documentation Website
+- Video Tutorials
+- Interactive Examples
+- Community Workshops
+- Sample Enterprise Projects
+
+---
+
+# ❤️ Final Goal
+
+Help Myanmar developers become world-class backend engineers by providing free, practical, and high-quality engineering resources.
