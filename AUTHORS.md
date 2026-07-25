@@ -3,19 +3,12 @@
 ## Founder
 
 Si Thu Aung
-
 Mawlamyine, Myanmar
 
----
-
-## Technical Writing & AI Collaboration
+## AI Technical Writing Collaboration
 
 OpenAI ChatGPT
 
----
-
-## Community Contributors
+## Contributors
 
 Coming Soon...
-
-Everyone who contributes to this project will be credited here.
